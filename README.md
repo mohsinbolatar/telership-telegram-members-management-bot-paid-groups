@@ -57,22 +57,19 @@ Take a look inside the most powerful **Telegram membership bot** and admin dashb
 | Screenshot 1 | Screenshot 2 |
 |:---:|:---:|
 | ![Subscription Plans](images/2.png) | ![Member Management](images/3.png) |
-| **Subscription Plans** | **Member Management** |
 
 | Screenshot 3 | Screenshot 4 |
 |:---:|:---:|
 | ![Payment History](images/4.png) | ![Payment Gateways](images/5.png) |
-| **Payment History** | **Payment Gateways** |
 
 | Screenshot 5 | Screenshot 6 |
 |:---:|:---:|
 | ![Revenue Analytics](images/6.png) | ![Bot Settings](images/7.png) |
-| **Revenue Analytics** | **Bot Settings** |
 
 | Screenshot 7 | Screenshot 8 |
 |:---:|:---:|
 | ![Member View](images/8.png) | ![Telegram Notifications](images/9.png) |
-| **Member View** | **Telegram Notifications** |
+
 
 ---
 
